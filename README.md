@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Sam
+
+I am a software developer with a focus on blockchain tech, game development and web/mobile apps. I love Ecmascript and have been using it for over 15 years, watching it grow into a beautiful language. Advocate of open source code and privacy.
+
+Currently working at Dock on various open source blockchain technologies. In my spare time I am working on my games and a soon-to-be open sourced game engine which leverages ES6 for scripting.
+
+📫 How to reach me: sshellawell@gmail.com
 
 <!--
 **SamHellawell/SamHellawell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
