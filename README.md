@@ -4,6 +4,8 @@ I am a software developer with a focus on blockchain tech, game development and 
 
 Currently working at Dock on various open source blockchain technologies. In my spare time I am working on my games and a soon-to-be open sourced game engine which leverages ES6 for scripting.
 
+I also have a little side project going providing free and open source services at https://foss.run
+
 📫 How to reach me: sshellawell@gmail.com
 
 <!--
