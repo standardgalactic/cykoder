@@ -8,6 +8,13 @@ I also have a little side project going providing free and open source services 
 
 📫 How to reach me: sshellawell@gmail.com
 
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=SamHellawell&show_icons=true&count_private=false&theme=nord&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SamHellawell&layout=compact&hide_border=true&theme=nord&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=SamHellawell&theme=nord&hide_border=true&background=FFFFFF00">
+</p>
+
 <!--
 **SamHellawell/SamHellawell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
